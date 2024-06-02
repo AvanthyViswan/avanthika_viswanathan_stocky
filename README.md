@@ -1,4 +1,4 @@
-# avanthika_viswanthan
+
 Stocky
 
 Welcome to Stocky! This system is developed using Python, Django, HTML, CSS, and a little JavaScript. This read-me document provides an overview of the system's modules, features, and instructions for setting it up and using it effectively.
